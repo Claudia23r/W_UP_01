@@ -44,8 +44,7 @@ pushup is a numerical variable; position is a categorical variable. Therefore we
 boxplot(pushups~position,data=mydata)
 ```
   
-  
-  This boxplot shows that SKILL positions typically do more pushups than LINE positions
+This boxplot shows that SKILL positions typically do more pushups than LINE positions
 
 
 ### Numerical Descriptive Results
@@ -54,9 +53,11 @@ boxplot(pushups~position,data=mydata)
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
 
+```{r}
+favstats(pushups~position,data=mydata)
+```
 
-
-
+This tables shows the average number of pushups done by players in LINE position was 17, mean number of pushups done in 2 minutes by SKILL players was 50
 
 ## Inferential Results
 This boxplot shows that players in LINE positions typically do morepushups in 2 minutes than do players in LINE positions. 
