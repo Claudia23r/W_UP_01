@@ -43,7 +43,9 @@ pushup is a numerical variable; position is a categorical variable. Therefore we
 ```{r}
 boxplot(pushups~position,data=mydata)
 ```
-
+  
+  
+  This boxplot shows that SKILL positions typically do more pushups than LINE positions
 
 
 ### Numerical Descriptive Results
