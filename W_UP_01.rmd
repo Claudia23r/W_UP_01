@@ -82,4 +82,4 @@ The p-value is 0.000009421 < 0.05 so we rejecct the $H_0$
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
 
-In the discussion in the graphical and inferential indicates that there is a difference and the p-value is less than 0.05 meaning there is a difference. The difference is SKILL team can do more pushups in  2 minutes on average than LINE team.
+In the discussion in the graphical and inferential indicates that there is a difference and the p-value is less than 0.05 meaning there is a difference. The difference is SKILL position can do more pushups in  2 minutes on average than LINE position. We rejected the $H_0$ because 0.000009421 < 0.05.
