@@ -31,7 +31,7 @@ $H_A$: The average number of pushups done by line players is statistically diffe
 
 <!--Decide on your methods: use "variable analysis" or other appropriate descriptors. Make sure to choose at least one graphical method and at least one numerical method.!-->
 
-pushup is a numerical variable; position is a categorical variable. Therefore we use num cat. We want to determine whether number of pushups based on position (line,skill) is differnt
+pushup is a numerical variable; position is a categorical variable. Therefore we use num cat. We want to determine whether number of pushups based on position (line,skill) is different 
 
 <!--Divide this section into two sub-sections: One for your descriptive results and one for your inferential results.!-->
 
@@ -81,3 +81,5 @@ The p-value is 0.000009421 < 0.05 so we rejecct the $H_0$
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
+
+In the discussion in the graphical and inferential indicates that there is a difference and the p-value is less than 0.05 meaning there is a difference. The difference is SKILL team can do more pushups in  2 minutes on average than LINE team.
