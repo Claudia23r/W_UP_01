@@ -57,7 +57,7 @@ This boxplot shows that SKILL positions typically do more pushups than LINE posi
 favstats(pushups~position,data=mydata)
 ```
 
-This tables shows the average number of pushups done by players in LINE position was 17, mean number of pushups done in 2 minutes by SKILL players was 50 
+This tables shows the average number of pushups done by players in LINE position was 17, mean number of pushups done in 2 minutes by SKILL players was 50
 
 ## Inferential Results
 This boxplot shows that players in LINE positions typically do morepushups in 2 minutes than do players in LINE positions. 
